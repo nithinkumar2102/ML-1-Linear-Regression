@@ -57,7 +57,7 @@ The cost reduction graph shows that the Mean Squared Error decreases during trai
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/nithinkumar2102/ML-1-Linear-Regression.git
 ```
 
 Navigate into the project:
